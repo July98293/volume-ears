@@ -1,3 +1,4 @@
+#Made on  Google collab!
 #The external auditory canal segment was analyzed by sampling cross-sectional areas along its principal axis.
 #Canal volume was computed by numerical integration of these areas. The canal isthmus was identified as the location of minimum cross-sectional area and used to 
 #divide the canal into cartilaginous and bony segments, whose volumes were computed separately (A conservative error bound proportional to the maximum cross-sectional 
